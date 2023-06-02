@@ -14,3 +14,19 @@ La Smart Box est équipée de capteurs d'humidité qui détectent le niveau d’
 *Détection des fuites d'eau :
 
 La Smart Box est équipée de capteurs d'eau, ces capteurs surveillent en permanence la présence d'eau anormale. Si une fuite est détectée, le capteur envoie un signal au       microcontrôleur.Le microcontrôleur reçoit le signal de détection de fuite et déclenche une alerte en temps réel.
+# Matériels utilisés
+o	Une carte UCA,
+o	Trois relais Arduino 
+o	Des capteurs de pluie FC-37
+o	Des câbles femelles et male
+o	Une électrovanne 
+o	Une mini pompe.  
+o	Un plateau pour assembler les éléments. 
+o	Une boite en plastique pour simuler le passage d’eau. 
+# Logiciels et Applications utilisés
+o	Arduino
+o	The Things Networks
+o	LoRa
+o	LoRaWan
+o	TagoIO
+
