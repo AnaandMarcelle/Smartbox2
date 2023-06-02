@@ -6,6 +6,7 @@ Le projet Smart Box vise à résoudre deux problèmes clés dans notre apparteme
 **Fonctionnement:
 
 Le fonctionnement de la Smart Box repose sur l'automatisation du ventilateur de la salle de bain et la détection des fuites d'eau. Voici une description détaillée de son       fonctionnement :
+
 **Automatisation du ventilateur :
 
 La Smart Box est équipée de capteurs d'humidité qui détectent le niveau d’humidité de la salle de bain.Lorsque le capteur détecte un seuil supérieur a (x valeur) de la salle de bain, il envoie un signal a la carte UCA de la Smart Box.Le microcontrôleur active alors le relais correspondant au ventilateur, permettant ainsi son fonctionnement. Une fois que le niveau d’humidité est inférieur au valeur X, le microcontrôleur désactive le relais du ventilateur, éteignant ainsi le ventilateur automatiquement.
