@@ -91,9 +91,11 @@ uint8_t temp = map(sht.getTemperature(), 20,35,170,0); // Map value from luminos
 
 ```
 # Schéma pour la connexion de l’électrovanne.
-!![image](https://github.com/AnaandMarcelle/Smartbox2/assets/128797197/594d9ec1-7e29-4fda-8396-bf64e3be5b12)
-Assemblage d'électrovanne.
-!![image](https://github.com/AnaandMarcelle/Smartbox2/assets/128797197/944f8ba3-bf55-44ac-9339-3a37d1048615)
+![image](https://github.com/AnaandMarcelle/Smartbox2/assets/128797197/594d9ec1-7e29-4fda-8396-bf64e3be5b12)
+
+# Assemblage d'électrovanne.
+
+![image](https://github.com/AnaandMarcelle/Smartbox2/assets/128797197/944f8ba3-bf55-44ac-9339-3a37d1048615)
 
 # Détection des fuites d'eau.
 Code de détection des fuites d'eau:
