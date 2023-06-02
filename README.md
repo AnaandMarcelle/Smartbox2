@@ -17,16 +17,16 @@ La Smart Box est équipée de capteurs d'eau, ces capteurs surveillent en perman
 # Matériels utilisés
 + Une carte UCA,
 + Trois relais Arduino 
-o	Des capteurs de pluie FC-37
-o	Des câbles femelles et male
-o	Une électrovanne 
-o	Une mini pompe.  
-o	Un plateau pour assembler les éléments. 
-o	Une boite en plastique pour simuler le passage d’eau. 
++ Des capteurs de pluie FC-37
++ Des câbles femelles et male
++ Une électrovanne 
++ Une mini pompe.  
++ Un plateau pour assembler les éléments. 
++	Une boite en plastique pour simuler le passage d’eau. 
 # Logiciels et Applications utilisés
-o	Arduino
-o	The Things Networks
-o	LoRa
-o	LoRaWan
-o	TagoIO
++	Arduino
++	The Things Networks
++	LoRa
++	LoRaWan
++	TagoIO
 
