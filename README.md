@@ -1,9 +1,9 @@
 # Smartbox
-**Description du projet:
+# Description du projet:
 
 Le projet Smart Box vise à résoudre deux problèmes clés dans notre appartement : les coûts énergétiques élevés dus à l'utilisation continue du ventilateur de la salle de bain  et le risque de dommages causés par les fuites d'eau. Pour cela, nous avons conçu une boîte intelligente qui automatise le fonctionnement du ventilateur et intègre des capteurs de détection des fuites d'eau.
 
-**Fonctionnement:
+# Fonctionnement:
 
 Le fonctionnement de la Smart Box repose sur l'automatisation du ventilateur de la salle de bain et la détection des fuites d'eau. Voici une description détaillée de son       fonctionnement :
 
